@@ -18,4 +18,10 @@ Click on the `New Feed` button and a modal will appear.
 
 ![](https://github.com/barend-erasmus/package-management-on-tfs/raw/master/screenshots/modal-4.PNG)
 
+Enter a feed name, description and click the `Create` button.
+
+After you've clicked the `Create` button a page should appear where there is a `Connect to Feed` button in the left-upper corner.
+
+![](https://github.com/barend-erasmus/package-management-on-tfs/raw/master/screenshots/connect-to-feed.PNG)
+
 ## Publish
