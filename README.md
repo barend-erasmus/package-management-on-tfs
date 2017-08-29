@@ -4,7 +4,7 @@ You no longer need to manage legacy on-prem file shares or host private package 
 
 ## Install
 
-To add `Package Management` to your TFS, go to the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ms.feed) and click install. Once you've successfully installed `Package Managemant` you should be able to navigate to `Packages` under the `Build & Release` tab.
+To add `Package Management` to your TFS, go to the [Marketplace](https://marketplace.visualstudio.com/items?itemName=ms.feed) and click install. Once you've successfully installed `Package Management` you should be able to navigate to `Packages` under the `Build & Release` tab.
 
 ![](https://raw.githubusercontent.com/barend-erasmus/package-management-on-tfs/master/screenshots/menu.PNG)
 
@@ -24,4 +24,12 @@ After you've clicked the `Create` button a page should appear where there is a `
 
 ![](https://github.com/barend-erasmus/package-management-on-tfs/raw/master/screenshots/connect-to-feed.PNG)
 
-## Publish
+Click on the `Connect to Feed` button and a modal will appear.
+
+![](https://github.com/barend-erasmus/package-management-on-tfs/raw/master/screenshots/modal.PNG)
+
+On the left of the modal there are three sections called `NuGet`, `npm`, `Maven`.
+
+You can click on either of these sections and the corresponding details should appear.
+
+## Publish (npm)
