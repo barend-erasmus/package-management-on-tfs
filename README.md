@@ -33,3 +33,11 @@ On the left of the modal there are three sections called `NuGet`, `npm`, `Maven`
 You can click on either of these sections and the corresponding details should appear.
 
 ## Publish (npm)
+
+Create a `.npmrc` file in your project and copy these two sections into the file.
+
+![](https://github.com/barend-erasmus/package-management-on-tfs/raw/master/screenshots/modal-2.PNG)
+
+Once you've created this file with the correct contents, you can run `npm publish`.
+
+Your package should appear on the Feed.
